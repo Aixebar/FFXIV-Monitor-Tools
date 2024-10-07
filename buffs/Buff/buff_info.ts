@@ -259,7 +259,7 @@ export class BuffInfoList {
             target: 'you',
             physicalUp: 5,
             magicUp: 5,
-            tts: '桃园',
+            tts: '义结金兰',
         },
         // 龙骑
         lanceCharge: { // 猛枪
@@ -336,7 +336,7 @@ export class BuffInfoList {
             target: 'boss',
             physicalUp: 5,
             magicUp: 5,
-            tts: '夺取',
+            tts: '背刺',
         },
         dokumori: { // 介毒之术
             activeAbility: [kAbility.Dokumori],
@@ -349,7 +349,7 @@ export class BuffInfoList {
             target: 'boss',
             physicalUp: 5,
             magicUp: 5,
-            tts: '夺取',
+            tts: '背刺',
         },
         // 钐镰客
         arcaneCircle: { // 秘环
@@ -363,7 +363,7 @@ export class BuffInfoList {
             target: 'you',
             physicalUp: 3,
             magicUp: 3,
-            tts: '秘环',
+            tts: '神秘环',
         },
         // 诗人
         raging: { // 猛者 26|2020-09-20T03:48:12.5040000+08:00|7d|猛者强击|20.00|1039A1D9|水貂桑|1039A1D9|水貂桑|00|111340|111340||7f5d92a566794a793b65f97686f3699f
@@ -402,7 +402,7 @@ export class BuffInfoList {
             target: 'you',
             physicalUp: 6,
             magicUp: 6,
-            tts: '终章',
+            tts: '乐章',
         },
         // 舞娘
         devilment: { // 进攻之探戈
@@ -429,7 +429,7 @@ export class BuffInfoList {
             target: 'you',
             physicalUp: 5,
             magicUp: 5,
-            tts: '技巧',
+            tts: '技巧舞',
         },
         // 召唤
         searingLight: { // 灼热之光
@@ -443,7 +443,7 @@ export class BuffInfoList {
             target: 'you',
             physicalUp: 5,
             magicUp: 5,
-            tts: '灼热',
+            tts: '灵护',
         },
         emboldenIsMe: { // 鼓励(自己给自己) 4d7
             gainEffect: [EffectId.Embolden_4D7],
