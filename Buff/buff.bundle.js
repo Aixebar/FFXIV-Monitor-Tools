@@ -42423,7 +42423,7 @@ class BuffInfoList {
       target: 'you',
       physicalUp: 5,
       magicUp: 5,
-      tts: '桃园'
+      tts: '义结金兰'
     },
     // 龙骑
     lanceCharge: {
@@ -42503,7 +42503,7 @@ class BuffInfoList {
       target: 'boss',
       physicalUp: 5,
       magicUp: 5,
-      tts: '夺取'
+      tts: '背刺'
     },
     dokumori: {
       // 介毒之术
@@ -42517,7 +42517,7 @@ class BuffInfoList {
       target: 'boss',
       physicalUp: 5,
       magicUp: 5,
-      tts: '夺取'
+      tts: '背刺'
     },
     // 钐镰客
     arcaneCircle: {
@@ -42532,7 +42532,7 @@ class BuffInfoList {
       target: 'you',
       physicalUp: 3,
       magicUp: 3,
-      tts: '秘环'
+      tts: '神秘环'
     },
     // 诗人
     raging: {
@@ -42574,7 +42574,7 @@ class BuffInfoList {
       target: 'you',
       physicalUp: 6,
       magicUp: 6,
-      tts: '终章'
+      tts: '乐章'
     },
     // 舞娘
     devilment: {
@@ -42603,7 +42603,7 @@ class BuffInfoList {
       target: 'you',
       physicalUp: 5,
       magicUp: 5,
-      tts: '技巧'
+      tts: '技巧舞'
     },
     // 召唤
     searingLight: {
@@ -42618,7 +42618,7 @@ class BuffInfoList {
       target: 'you',
       physicalUp: 5,
       magicUp: 5,
-      tts: '灼热'
+      tts: '灵护'
     },
     emboldenIsMe: {
       // 鼓励(自己给自己) 4d7
